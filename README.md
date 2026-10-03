@@ -1,2 +1,2 @@
 # test-copilot
-i wonder if I can use copilot in this one
+Inspired from [parse.bot](https://parse.bot)
