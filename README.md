@@ -1,4 +1,2 @@
 # test-copilot
-Inspired from [parse.bot](https://parse.bot)
-
-see [automotice category](https://parse.bot/marketplace/category/automotive) for more
+Inspired from [here]([https://parse.bot/marketplace/category/automotive](https://parse.bot/marketplace/23511ab6-e003-4b46-8f5f-8ea2cb72b942/blackcircles-com-api)) for more
