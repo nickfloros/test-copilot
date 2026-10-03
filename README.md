@@ -1,2 +1,4 @@
 # test-copilot
-i wonder if I can use copilot in this one
+Inspired from [parse.bot](https://parse.bot)
+
+see [automotice category](https://parse.bot/marketplace/category/automotive) for more

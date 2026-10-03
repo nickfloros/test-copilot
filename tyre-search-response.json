@@ -1,0 +1,53 @@
+{
+  "id": "job_3ZxK9pQr7TnW",
+  "object": "job",
+  "endpoint": "vehicle.pose",
+  "status": "queued",
+  "livemode": true,
+  "created": 1755300000,
+  "started_at": 1755300000,
+  "completed_at": 1755300000,
+  "model_version": "plate-reader@2026-08-27",
+  "credits": {
+    "reserved": 20,
+    "charged": 20
+  },
+  "result": {
+    "brand": "Michelin",
+    "model": "Primacy 4",
+    "size": {
+      "raw": "205/55 R16",
+      "width_mm": 205,
+      "aspect_ratio": 55,
+      "construction": "R",
+      "rim_diameter_in": 16
+    },
+    "load_index": 91,
+    "speed_rating": "V",
+    "season": "summer",
+    "dot": {
+      "code": "3223",
+      "week": 32,
+      "year": 2023
+    },
+    "markings": [
+      "XL",
+      "M+S",
+      "3PMSF",
+      "RunFlat"
+    ],
+    "confidence": 0.94,
+    "bbox": {
+      "x": 120,
+      "y": 340,
+      "width": 180,
+      "height": 48
+    }
+  },
+  "error": {
+    "type": "processing_error",
+    "code": "model_inference_failed",
+    "message": "<string>"
+  },
+  "test_scenario": "low_confidence"
+}
